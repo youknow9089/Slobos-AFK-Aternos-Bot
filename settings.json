@@ -2,20 +2,20 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "AfkBot",
-    "password": "afkbot@87641",
+    "password": "afkbot87641",
     "type": "offline"
   },
   "server": {
     "ip": "CreepyFreaks.aternos.me",
     "port": 33443,
-    "version": "",
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -412,
+    "y": 64,
+    "z": -570
   },
   "utils": {
     "auto-auth": {
